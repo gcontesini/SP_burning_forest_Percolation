@@ -1,7 +1,6 @@
-# Percolation
+## This is not a Renormalization Percolation Problem
 
-Straightforward algorithm for percolation/forest burning using Von Neumann neighborhood.
-Critical exponent above the criticality. Finite size scale analysis missing.
+## This is not a SOC Burning-Forest Simulation
 
 ## Parameters
 
